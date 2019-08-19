@@ -1,0 +1,272 @@
+[
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566227660834,
+            "changeTime": 1566227660834,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566227660834,
+            "changeTime": 1566227660834,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566227660843,
+            "changeTime": 1566227660843,
+            "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\applications",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566227660835,
+            "changeTime": 1566227660835,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566227660836,
+            "changeTime": 1566227660836,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566233835286,
+            "changeTime": 1566233835286,
+            "contentHash": "57512b7b0fdb9420c88ccad2e773f1785cb6c2c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\classes\\MyFirstClass.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\classes\\MyFirstClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 87,
+            "modifiedTime": 1566233977024,
+            "changeTime": 1566233977024,
+            "contentHash": "090ccf46dab6f356c43d7ea3f0e0f9f79e453e68",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\classes\\MyFirstClass.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\classes\\MyFirstClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1566233835283,
+            "changeTime": 1566233835283,
+            "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\contentassets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566227660838,
+            "changeTime": 1566227660838,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566227660839,
+            "changeTime": 1566227660839,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566227660840,
+            "changeTime": 1566227660840,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566227694887,
+            "changeTime": 1566227694887,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566227660841,
+            "changeTime": 1566227660841,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566227660841,
+            "changeTime": 1566227660841,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\staticresources",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566227660842,
+            "changeTime": 1566227660842,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566227660842,
+            "changeTime": 1566227660842,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\triggers",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566227660843,
+            "changeTime": 1566227660843,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\baezh\\Documents\\REVATURE\\SfdxCode\\MyFirstSfdxProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566232393020,
+            "changeTime": 1566232393020,
+            "contentHash": "c3ed5d5c3c91f3fce46a3b4e21a87b945c7a8218",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
