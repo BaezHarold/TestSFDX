@@ -1,5 +1,5 @@
 public with sharing class MyFirstClass {
     public MyFirstClass() {
-		// Adios
+		// Adios Amigo
     }
 }
